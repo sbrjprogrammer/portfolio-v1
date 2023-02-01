@@ -1,0 +1,16 @@
+.img>a>img{
+    height: 300px;
+    width: 380px;
+
+}
+.hide{
+    opacity: 0.4;
+}
+
+
+.img>a>img:hover{
+    opacity: 0.4;
+    cursor: pointer;
+  
+    
+}
